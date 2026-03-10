@@ -1,0 +1,1027 @@
+[
+  {
+    "question": "Which theory states that the universe has no beginning and no end, and that new matter is continuously created as it expands?",
+    "choices": ["Big Bang Theory", "Steady State Theory", "Oscillating Universe Theory", "Nebular Hypothesis"],
+    "answer": "Steady State Theory"
+  },
+  {
+    "question": "The Big Bang Theory proposes that the universe began from a single, infinitely dense point. Approximately how long ago did this occur?",
+    "choices": ["4.6 billion years", "10,000 years", "13.8 billion years", "100 billion years"],
+    "answer": "13.8 billion years"
+  },
+  {
+    "question": "Which of the following observations provides the strongest evidence for the Big Bang Theory?",
+    "choices": ["The retrograde motion of planets", "The existence of black holes", "Cosmic Microwave Background Radiation", "The phases of the moon"],
+    "answer": "Cosmic Microwave Background Radiation"
+  },
+  {
+    "question": "What does the redshift of light from distant galaxies indicate about the universe?",
+    "choices": ["It is contracting", "It is static", "It is expanding", "It is cooling down rapidly"],
+    "answer": "It is expanding"
+  },
+  {
+    "question": "Who first proposed the concept of an expanding universe, which later supported the Big Bang theory?",
+    "choices": ["Albert Einstein", "Isaac Newton", "Edwin Hubble", "Georges Lemaître"],
+    "answer": "Georges Lemaître"
+  },
+  {
+    "question": "According to the Nebular Hypothesis, the solar system formed from:",
+    "choices": ["A collision between two stars", "A giant cloud of gas and dust", "A massive explosion of a comet", "The capture of rogue planets by the Sun"],
+    "answer": "A giant cloud of gas and dust"
+  },
+  {
+    "question": "Which hypothesis suggests that a passing star pulled matter from the Sun, which then condensed into planets?",
+    "choices": ["Tidal/Encounter Hypothesis", "Protoplanet Hypothesis", "Nebular Hypothesis", "Planetesimal Hypothesis"],
+    "answer": "Tidal/Encounter Hypothesis"
+  },
+  {
+    "question": "How does the Protoplanet Hypothesis differ from the original Nebular Hypothesis?",
+    "choices": ["It involves a supernova explosion", "It accounts for the formation of planetesimals and protoplanets through accretion", "It states the planets formed before the sun", "It relies on a collision with a black hole"],
+    "answer": "It accounts for the formation of planetesimals and protoplanets through accretion"
+  },
+  {
+    "question": "Why is the Encounter Hypothesis generally rejected by modern astronomers?",
+    "choices": ["It doesn't explain the existence of moons", "Gases pulled from a star would likely disperse rather than condense", "It cannot explain the Sun's heat", "It violates the laws of gravity"],
+    "answer": "Gases pulled from a star would likely disperse rather than condense"
+  },
+  {
+    "question": "The fact that most planets revolve and rotate in the same direction strongly supports which origin model?",
+    "choices": ["Capture Theory", "Nebular/Disk-based models", "Encounter Hypothesis", "Fission Theory"],
+    "answer": "Nebular/Disk-based models"
+  },
+  {
+    "question": "Why is Earth's distance from the Sun crucial for life?",
+    "choices": ["It prevents the atmosphere from freezing", "It allows water to exist in liquid form", "It keeps the Earth's core molten", "It blocks solar flares"],
+    "answer": "It allows water to exist in liquid form"
+  },
+  {
+    "question": "What role does Earth's magnetic field play in supporting life?",
+    "choices": ["It traps greenhouse gases", "It deflects harmful solar radiation and cosmic rays", "It creates ocean currents", "It generates oxygen"],
+    "answer": "It deflects harmful solar radiation and cosmic rays"
+  },
+  {
+    "question": "Which gas in Earth's atmosphere is primarily responsible for absorbing harmful ultraviolet radiation?",
+    "choices": ["Carbon dioxide", "Nitrogen", "Ozone", "Methane"],
+    "answer": "Ozone"
+  },
+  {
+    "question": "Earth is considered a \"Goldilocks\" planet because:",
+    "choices": ["It has a yellow sun", "It has exactly one moon", "Its conditions are \"just right\" for liquid water and life", "It is rich in gold deposits"],
+    "answer": "Its conditions are \"just right\" for liquid water and life"
+  },
+  {
+    "question": "How does the presence of an atmosphere contribute to Earth's habitability?",
+    "choices": ["It prevents asteroid impacts entirely", "It regulates temperature and provides necessary gases", "It increases Earth's gravity", "It decreases the need for water"],
+    "answer": "It regulates temperature and provides necessary gases"
+  },
+  {
+    "question": "Which Earth subsystem encompasses all living organisms?",
+    "choices": ["Atmosphere", "Biosphere", "Geosphere", "Hydrosphere"],
+    "answer": "Biosphere"
+  },
+  {
+    "question": "A volcano erupting and releasing ash into the air is an interaction between the:",
+    "choices": ["Geosphere and Hydrosphere", "Geosphere and Atmosphere", "Biosphere and Atmosphere", "Hydrosphere and Biosphere"],
+    "answer": "Geosphere and Atmosphere"
+  },
+  {
+    "question": "Water evaporating from a lake and forming clouds represents a flow of matter from the:",
+    "choices": ["Hydrosphere to the Atmosphere", "Atmosphere to the Hydrosphere", "Geosphere to the Hydrosphere", "Biosphere to the Atmosphere"],
+    "answer": "Hydrosphere to the Atmosphere"
+  },
+  {
+    "question": "Which of the following is an example of the biosphere interacting with the geosphere?",
+    "choices": ["Wind blowing sand", "Plants absorbing carbon dioxide", "Plant roots breaking apart rocks", "Ocean currents distributing heat"],
+    "answer": "Plant roots breaking apart rocks"
+  },
+  {
+    "question": "The carbon cycle involves the transfer of carbon between the atmosphere, biosphere, hydrosphere, and geosphere. This demonstrates that Earth is a(n):",
+    "choices": ["Closed system for energy", "Open system for matter", "Interconnected system of subsystems", "Static environment"],
+    "answer": "Interconnected system of subsystems"
+  },
+  {
+    "question": "The tendency of a mineral to break along smooth, flat surfaces is called:",
+    "choices": ["Fracture", "Cleavage", "Hardness", "Streak"],
+    "answer": "Cleavage"
+  },
+  {
+    "question": "Which physical property is determined by rubbing a mineral across an unglazed porcelain plate?",
+    "choices": ["Luster", "Color", "Streak", "Specific gravity"],
+    "answer": "Streak"
+  },
+  {
+    "question": "On Mohs scale of hardness, which mineral is the hardest?",
+    "choices": ["Talc", "Quartz", "Diamond", "Corundum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "A mineral that reflects light like a piece of metal is said to have:",
+    "choices": ["Metallic luster", "Non-metallic luster", "Vitreous luster", "Pearly luster"],
+    "answer": "Metallic luster"
+  },
+  {
+    "question": "Which common rock-forming mineral reacts vigorously with dilute hydrochloric acid?",
+    "choices": ["Quartz", "Feldspar", "Calcite", "Mica"],
+    "answer": "Calcite"
+  },
+  {
+    "question": "Rocks formed from the cooling and solidification of magma or lava are:",
+    "choices": ["Sedimentary", "Igneous", "Metamorphic", "Foliated"],
+    "answer": "Igneous"
+  },
+  {
+    "question": "Which type of rock is most likely to contain fossils?",
+    "choices": ["Intrusive igneous", "Extrusive igneous", "Metamorphic", "Sedimentary"],
+    "answer": "Sedimentary"
+  },
+  {
+    "question": "A rock subjected to intense heat and pressure without melting transforms into a:",
+    "choices": ["Sedimentary rock", "Metamorphic rock", "Igneous rock", "Clastic rock"],
+    "answer": "Metamorphic rock"
+  },
+  {
+    "question": "Sandstone and limestone are examples of:",
+    "choices": ["Igneous rocks", "Metamorphic rocks", "Sedimentary rocks", "Volcanic rocks"],
+    "answer": "Sedimentary rocks"
+  },
+  {
+    "question": "Obsidian is a glassy rock formed by rapid cooling of lava. It is classified as:",
+    "choices": ["Igneous", "Sedimentary", "Metamorphic", "Biogenic"],
+    "answer": "Igneous"
+  },
+  {
+    "question": "Which mineral is the primary source of iron used in making steel?",
+    "choices": ["Halite", "Hematite", "Gypsum", "Quartz"],
+    "answer": "Hematite"
+  },
+  {
+    "question": "Halite is an important mineral consumed daily by humans. What is its common name?",
+    "choices": ["Table salt", "Sugar", "Baking soda", "Flour"],
+    "answer": "Table salt"
+  },
+  {
+    "question": "Which mineral is widely used in the construction industry to make drywall and plaster?",
+    "choices": ["Galena", "Gypsum", "Fluorite", "Pyrite"],
+    "answer": "Gypsum"
+  },
+  {
+    "question": "What mineral is heavily utilized in the manufacturing of glass and microchips?",
+    "choices": ["Calcite", "Quartz", "Talc", "Bauxite"],
+    "answer": "Quartz"
+  },
+  {
+    "question": "Copper wiring in homes is primarily extracted from ores containing which metal?",
+    "choices": ["Copper", "Lead", "Zinc", "Aluminum"],
+    "answer": "Copper"
+  },
+  {
+    "question": "The process of locating potential ore deposits is known as:",
+    "choices": ["Refining", "Exploration", "Smelting", "Reclamation"],
+    "answer": "Exploration"
+  },
+  {
+    "question": "Surface mining techniques are most suitable for extracting ores that are:",
+    "choices": ["Deep underground", "Close to the Earth's surface", "Located beneath the ocean floor", "Extremely rare"],
+    "answer": "Close to the Earth's surface"
+  },
+  {
+    "question": "Which process involves heating an ore to extract the desired metal?",
+    "choices": ["Flotation", "Leaching", "Smelting", "Comminution"],
+    "answer": "Smelting"
+  },
+  {
+    "question": "In mineral processing, what is the purpose of crushing and milling the ore?",
+    "choices": ["To chemically alter the mineral", "To increase the surface area and separate the ore from gangue", "To melt the rock", "To transport it easier"],
+    "answer": "To increase the surface area and separate the ore from gangue"
+  },
+  {
+    "question": "Underground mining relies heavily on:",
+    "choices": ["Removing all topsoil", "Digging massive open pits", "Constructing shafts and tunnels to reach deep deposits", "Using high-pressure water jets on mountainsides"],
+    "answer": "Constructing shafts and tunnels to reach deep deposits"
+  },
+  {
+    "question": "Restoring a mined area to its natural or economically usable state is called:",
+    "choices": ["Deforestation", "Reclamation", "Smelting", "Exploitation"],
+    "answer": "Reclamation"
+  },
+  {
+    "question": "How can recycling metals help the environment?",
+    "choices": ["It increases the need for open-pit mining", "It reduces the demand for raw ore extraction", "It produces more toxic tailings", "It increases greenhouse gas emissions"],
+    "answer": "It reduces the demand for raw ore extraction"
+  },
+  {
+    "question": "To prevent acid mine drainage from contaminating water sources, mining companies can:",
+    "choices": ["Dump tailings in nearby rivers", "Treat runoff water with neutralizing agents", "Abandon the mine quickly", "Increase the extraction rate"],
+    "answer": "Treat runoff water with neutralizing agents"
+  },
+  {
+    "question": "Which is a method to minimize air pollution during the crushing and transport of ores?",
+    "choices": ["Using dust suppression systems like water sprays", "Burning waste rock", "Increasing the speed of transport trucks", "Crushing ores only during high winds"],
+    "answer": "Using dust suppression systems like water sprays"
+  },
+  {
+    "question": "Phytoextraction involves using:",
+    "choices": ["Heavy machinery to remove soil", "Chemicals to dissolve rocks", "Plants to absorb and accumulate heavy metals from contaminated soil", "Microbes to create new minerals"],
+    "answer": "Plants to absorb and accumulate heavy metals from contaminated soil"
+  },
+  {
+    "question": "Coal is primarily formed from the remains of:",
+    "choices": ["Marine microorganisms", "Ancient swamp plants", "Dinosaurs", "Volcanic ash"],
+    "answer": "Ancient swamp plants"
+  },
+  {
+    "question": "Petroleum and natural gas are mostly formed from:",
+    "choices": ["Decayed land plants", "Metamorphic rocks", "Marine algae and plankton", "Magma cooling underground"],
+    "answer": "Marine algae and plankton"
+  },
+  {
+    "question": "Which two factors are absolutely necessary for the formation of fossil fuels over millions of years?",
+    "choices": ["Oxygen and sunlight", "Heat and pressure", "Freezing temperatures and ice", "Wind and erosion"],
+    "answer": "Heat and pressure"
+  },
+  {
+    "question": "The first stage of coal formation creates a brownish, spongy material called:",
+    "choices": ["Anthracite", "Bituminous", "Peat", "Lignite"],
+    "answer": "Peat"
+  },
+  {
+    "question": "Why are fossil fuels considered non-renewable resources?",
+    "choices": ["They do not release energy when burned", "They are being formed today faster than they are used", "They take millions of years to form", "They can be easily synthesized in a lab"],
+    "answer": "They take millions of years to form"
+  },
+  {
+    "question": "Geothermal power plants generate electricity by using Earth's internal heat to:",
+    "choices": ["Melt rocks into magma", "Create steam to turn turbines", "Produce solar radiation", "Directly charge batteries"],
+    "answer": "Create steam to turn turbines"
+  },
+  {
+    "question": "Which geological feature indicates a high potential for geothermal energy extraction?",
+    "choices": ["Thick sedimentary basins", "Stable continental shields", "Active volcanic regions and hot springs", "Deep ocean trenches"],
+    "answer": "Active volcanic regions and hot springs"
+  },
+  {
+    "question": "What is commonly injected back into the ground in a geothermal power plant system?",
+    "choices": ["Magma", "Cooled water", "Fossil fuels", "Radioactive waste"],
+    "answer": "Cooled water"
+  },
+  {
+    "question": "A binary cycle geothermal plant is advantageous because it:",
+    "choices": ["Uses extremely high-temperature steam", "Emits large amounts of CO2", "Can operate using lower-temperature geothermal water", "Burns coal to superheat the water"],
+    "answer": "Can operate using lower-temperature geothermal water"
+  },
+  {
+    "question": "Geothermal heat pumps used for residential heating and cooling rely on:",
+    "choices": ["Deep underground magma chambers", "The constant temperature of the shallow ground", "Active geysers", "Solar panels"],
+    "answer": "The constant temperature of the shallow ground"
+  },
+  {
+    "question": "One major environmental concern of burning fossil fuels is the release of sulfur dioxide, which causes:",
+    "choices": ["Acid rain", "Ozone depletion", "Soil erosion", "Nuclear fallout"],
+    "answer": "Acid rain"
+  },
+  {
+    "question": "How can the environmental impact of hydroelectric dams be mitigated?",
+    "choices": ["Building dams only on dry land", "Constructing fish ladders to allow fish migration", "Flooding larger areas of forest", "Blocking all sediment flow"],
+    "answer": "Constructing fish ladders to allow fish migration"
+  },
+  {
+    "question": "Which technology helps reduce particulate matter emissions from coal power plants?",
+    "choices": ["Solar panels", "Electrostatic precipitators/scrubbers", "Wind turbines", "Fracking"],
+    "answer": "Electrostatic precipitators/scrubbers"
+  },
+  {
+    "question": "While geothermal energy is generally clean, it can sometimes release small amounts of:",
+    "choices": ["Heavy metals", "Chlorofluorocarbons", "Hydrogen sulfide", "Plastics"],
+    "answer": "Hydrogen sulfide"
+  },
+  {
+    "question": "Carbon capture and storage (CCS) is a proposed solution primarily aimed at:",
+    "choices": ["Reducing water use in dams", "Trapping CO2 emissions from fossil fuel plants", "Filtering geothermal steam", "Enhancing natural gas extraction"],
+    "answer": "Trapping CO2 emissions from fossil fuel plants"
+  },
+  {
+    "question": "Approximately what percentage of Earth's total water is saltwater found in oceans?",
+    "choices": ["3%", "50%", "71%", "97%"],
+    "answer": "97%"
+  },
+  {
+    "question": "The majority of Earth's freshwater is located in:",
+    "choices": ["Rivers and lakes", "Groundwater", "Glaciers and ice caps", "The atmosphere"],
+    "answer": "Glaciers and ice caps"
+  },
+  {
+    "question": "Which is the most abundant source of *liquid* freshwater on Earth?",
+    "choices": ["Groundwater", "Rivers", "Lakes", "Soil moisture"],
+    "answer": "Groundwater"
+  },
+  {
+    "question": "Surface water (lakes, rivers, swamps) makes up approximately what percentage of Earth's total freshwater?",
+    "choices": ["Less than 1%", "10%", "30%", "50%"],
+    "answer": "Less than 1%"
+  },
+  {
+    "question": "Water in the atmosphere (clouds and vapor) accounts for:",
+    "choices": ["The majority of freshwater", "A very small fraction of Earth's total water", "About 10% of total water", "More water than in the oceans"],
+    "answer": "A very small fraction of Earth's total water"
+  },
+  {
+    "question": "An underground layer of water-bearing permeable rock from which groundwater can be extracted is an:",
+    "choices": ["Aquitard", "Aquifer", "Artesian well", "Estuary"],
+    "answer": "Aquifer"
+  },
+  {
+    "question": "Which of the following is considered a surface water resource?",
+    "choices": ["An unconfined aquifer", "Soil moisture", "A natural lake", "Permafrost"],
+    "answer": "A natural lake"
+  },
+  {
+    "question": "Desalination is a process used to create freshwater resources from:",
+    "choices": ["Glacial ice", "Groundwater", "Ocean water", "River water"],
+    "answer": "Ocean water"
+  },
+  {
+    "question": "What is a watershed (catchment area)?",
+    "choices": ["A building that stores water", "An area of land that drains all streams and rainfall to a common outlet", "A type of deep aquifer", "A man-made reservoir"],
+    "answer": "An area of land that drains all streams and rainfall to a common outlet"
+  },
+  {
+    "question": "Reclaimed water refers to:",
+    "choices": ["Melted glacier water", "Water extracted from deep underground", "Treated wastewater reused for purposes like irrigation", "Rainwater caught in barrels"],
+    "answer": "Treated wastewater reused for purposes like irrigation"
+  },
+  {
+    "question": "Runoff containing excess agricultural fertilizers can lead to:",
+    "choices": ["Increased groundwater recharge", "Eutrophication and algal blooms in water bodies", "Clearer lake water", "Reduced water temperatures"],
+    "answer": "Eutrophication and algal blooms in water bodies"
+  },
+  {
+    "question": "How does extensive deforestation affect local water availability?",
+    "choices": ["It increases groundwater recharge", "It decreases runoff", "It reduces water infiltration into the soil, leading to flash floods", "It creates new aquifers"],
+    "answer": "It reduces water infiltration into the soil, leading to flash floods"
+  },
+  {
+    "question": "Over-pumping groundwater in coastal areas can result in:",
+    "choices": ["Saltwater intrusion into the aquifer", "Increased freshwater flow to the ocean", "The formation of new rivers", "Decreased ocean salinity"],
+    "answer": "Saltwater intrusion into the aquifer"
+  },
+  {
+    "question": "Industrial thermal pollution affects water bodies by:",
+    "choices": ["Adding heavy metals", "Increasing water temperature, which lowers dissolved oxygen levels", "Making the water too acidic", "Freezing the water"],
+    "answer": "Increasing water temperature, which lowers dissolved oxygen levels"
+  },
+  {
+    "question": "Urbanization impacts water quality primarily through:",
+    "choices": ["Decreasing impermeable surfaces", "Increasing point-source pollution from factories only", "Increasing non-point source pollution from surface runoff over paved areas", "Reducing overall water consumption"],
+    "answer": "Increasing non-point source pollution from surface runoff over paved areas"
+  },
+  {
+    "question": "Which irrigation method is most efficient for conserving water in agriculture?",
+    "choices": ["Flood irrigation", "Spray irrigation", "Drip irrigation", "Furrow irrigation"],
+    "answer": "Drip irrigation"
+  },
+  {
+    "question": "What is a practical way to conserve water at home?",
+    "choices": ["Leaving the tap running while brushing teeth", "Installing low-flow showerheads and toilets", "Watering the lawn during the hottest part of the day", "Washing half-empty loads in the washing machine"],
+    "answer": "Installing low-flow showerheads and toilets"
+  },
+  {
+    "question": "The protection of riparian zones (vegetated areas near rivers) helps by:",
+    "choices": ["Filtering pollutants from runoff before they enter the river", "Increasing soil erosion", "Blocking river flow", "Encouraging algal blooms"],
+    "answer": "Filtering pollutants from runoff before they enter the river"
+  },
+  {
+    "question": "Rainwater harvesting involves:",
+    "choices": ["Extracting more groundwater", "Collecting and storing rain for later use", "Seeding clouds to produce rain", "Desalinating ocean water"],
+    "answer": "Collecting and storing rain for later use"
+  },
+  {
+    "question": "Industrial water conservation can be significantly improved by:",
+    "choices": ["Discharging wastewater directly into lakes", "Using fresh water for cooling and dumping it", "Recycling and reusing cooling water", "Maximizing water evaporation"],
+    "answer": "Recycling and reusing cooling water"
+  },
+  {
+    "question": "The use of heavy machinery in agriculture and construction often leads to soil:",
+    "choices": ["Aeration", "Compaction", "Enrichment", "Salinization"],
+    "answer": "Compaction"
+  },
+  {
+    "question": "Overgrazing by livestock affects soil primarily by:",
+    "choices": ["Adding too many nutrients", "Removing plant cover and increasing vulnerability to erosion", "Loosening the soil too much", "Increasing water retention"],
+    "answer": "Removing plant cover and increasing vulnerability to erosion"
+  },
+  {
+    "question": "Improper waste disposal in landfills can degrade soil quality by:",
+    "choices": ["Leaching toxic chemicals and heavy metals into the surrounding soil", "Increasing the amount of topsoil", "Promoting the growth of beneficial earthworms", "Reducing soil acidity"],
+    "answer": "Leaching toxic chemicals and heavy metals into the surrounding soil"
+  },
+  {
+    "question": "Excessive irrigation in arid regions without proper drainage can cause:",
+    "choices": ["Desertification", "Soil salinization", "Soil compaction", "Nutrient depletion"],
+    "answer": "Soil salinization"
+  },
+  {
+    "question": "Monoculture (growing a single crop year after year) generally leads to:",
+    "choices": ["Increased soil biodiversity", "Depletion of specific soil nutrients", "Prevention of soil erosion", "Enhanced soil structure"],
+    "answer": "Depletion of specific soil nutrients"
+  },
+  {
+    "question": "Planting crops across the slope of a hill rather than up and down is called:",
+    "choices": ["Crop rotation", "Terracing", "Contour plowing", "Strip cropping"],
+    "answer": "Contour plowing"
+  },
+  {
+    "question": "Creating flat, step-like areas on steep slopes to reduce runoff and erosion is known as:",
+    "choices": ["Terracing", "Windbreaks", "No-till farming", "Mulching"],
+    "answer": "Terracing"
+  },
+  {
+    "question": "How does crop rotation benefit the soil?",
+    "choices": ["It kills all soil bacteria", "It prevents the depletion of specific nutrients and breaks pest cycles", "It increases soil compaction", "It makes plowing easier"],
+    "answer": "It prevents the depletion of specific nutrients and breaks pest cycles"
+  },
+  {
+    "question": "Leaving crop residue on the field after harvest (conservation tillage) helps to:",
+    "choices": ["Increase water evaporation", "Protect soil from wind and water erosion", "Promote weed growth", "Remove organic matter"],
+    "answer": "Protect soil from wind and water erosion"
+  },
+  {
+    "question": "Planting rows of trees or shrubs along the edges of fields serves as:",
+    "choices": ["Windbreaks to reduce wind erosion", "Water drains", "Compaction zones", "Salinization prevention"],
+    "answer": "Windbreaks to reduce wind erosion"
+  },
+  {
+    "question": "Food scraps, paper, and plastics discarded from households are classified as:",
+    "choices": ["Municipal solid waste", "Industrial liquid waste", "Gaseous waste", "Hazardous waste"],
+    "answer": "Municipal solid waste"
+  },
+  {
+    "question": "The burning of gasoline in cars primarily produces which type of waste?",
+    "choices": ["Solid waste", "Liquid waste", "Gaseous waste (emissions)", "Radioactive waste"],
+    "answer": "Gaseous waste (emissions)"
+  },
+  {
+    "question": "Wastewater from sinks, showers, and toilets is an example of:",
+    "choices": ["Solid waste", "Liquid waste (sewage)", "Gaseous waste", "Agricultural runoff"],
+    "answer": "Liquid waste (sewage)"
+  },
+  {
+    "question": "Manufacturing processes in factories often produce chemical byproducts that are discharged into rivers. This is:",
+    "choices": ["Agricultural solid waste", "Domestic gaseous waste", "Industrial liquid waste", "E-waste"],
+    "answer": "Industrial liquid waste"
+  },
+  {
+    "question": "Discarded electronics like old phones and computers are a growing category of waste known as:",
+    "choices": ["Organic waste", "E-waste", "Gaseous waste", "Yard trimmings"],
+    "answer": "E-waste"
+  },
+  {
+    "question": "Improperly managed landfills can produce a toxic liquid that contaminates groundwater, called:",
+    "choices": ["Methane", "Leachate", "Smog", "Sludge"],
+    "answer": "Leachate"
+  },
+  {
+    "question": "Gaseous waste like sulfur dioxide and nitrogen oxides contribute to:",
+    "choices": ["Clean air", "Acid rain and respiratory issues", "Soil enrichment", "Groundwater recharge"],
+    "answer": "Acid rain and respiratory issues"
+  },
+  {
+    "question": "Microplastics in the ocean primarily threaten:",
+    "choices": ["Satellite communications", "Marine life that ingests them", "Cloud formation", "Deep ocean currents"],
+    "answer": "Marine life that ingests them"
+  },
+  {
+    "question": "What is a major health risk associated with open dumping of solid waste?",
+    "choices": ["Decreased mosquito populations", "It serves as a breeding ground for disease vectors like rats and flies", "It purifies the surrounding air", "It prevents flooding"],
+    "answer": "It serves as a breeding ground for disease vectors like rats and flies"
+  },
+  {
+    "question": "The release of untreated sewage into water bodies can lead to waterborne diseases such as:",
+    "choices": ["Asthma", "Lung cancer", "Cholera and dysentery", "Diabetes"],
+    "answer": "Cholera and dysentery"
+  },
+  {
+    "question": "The most effective way to manage waste according to the waste hierarchy is:",
+    "choices": ["Recycling", "Reusing", "Reducing", "Landfilling"],
+    "answer": "Reducing"
+  },
+  {
+    "question": "Using a refillable water bottle instead of buying single-use plastic bottles is an example of:",
+    "choices": ["Recycling", "Reusing/Reducing", "Composting", "Incineration"],
+    "answer": "Reusing/Reducing"
+  },
+  {
+    "question": "Turning food scraps and yard waste into a nutrient-rich soil amendment is called:",
+    "choices": ["Recycling", "Composting", "Landfilling", "Upcycling"],
+    "answer": "Composting"
+  },
+  {
+    "question": "Which practice helps reduce paper waste in schools?",
+    "choices": ["Printing on one side of the paper only", "Using digital assignments and double-sided printing", "Throwing away old notebooks", "Buying new textbooks every semester"],
+    "answer": "Using digital assignments and double-sided printing"
+  },
+  {
+    "question": "Donating old but wearable clothes to a charity is an example of:",
+    "choices": ["Reducing", "Reusing", "Recycling", "Refusing"],
+    "answer": "Reusing"
+  },
+  {
+    "question": "The physical breakdown of rocks into smaller pieces without changing their chemical composition is called:",
+    "choices": ["Chemical weathering", "Mechanical weathering", "Erosion", "Deposition"],
+    "answer": "Mechanical weathering"
+  },
+  {
+    "question": "When water freezes in the cracks of rocks, it expands and breaks the rock apart. This process is:",
+    "choices": ["Frost wedging", "Oxidation", "Hydrolysis", "Exfoliation"],
+    "answer": "Frost wedging"
+  },
+  {
+    "question": "The process where iron in rocks reacts with oxygen to form rust is an example of:",
+    "choices": ["Mechanical weathering", "Chemical weathering (oxidation)", "Biological weathering", "Abrasion"],
+    "answer": "Chemical weathering (oxidation)"
+  },
+  {
+    "question": "Which factor significantly speeds up the rate of chemical weathering?",
+    "choices": ["Cold, dry climate", "High temperature and abundant moisture", "Absence of soil", "Deep burial underground"],
+    "answer": "High temperature and abundant moisture"
+  },
+  {
+    "question": "Tree roots growing into rock fractures and splitting them apart is considered:",
+    "choices": ["Chemical weathering", "Biological mechanical weathering", "Frost action", "Thermal expansion"],
+    "answer": "Biological mechanical weathering"
+  },
+  {
+    "question": "The main agent of erosion responsible for moving the most sediment globally is:",
+    "choices": ["Wind", "Glaciers", "Running water", "Gravity alone"],
+    "answer": "Running water"
+  },
+  {
+    "question": "Wind erosion is most highly effective in which type of environment?",
+    "choices": ["Dense forests", "Humid wetlands", "Arid deserts and loose topsoil", "Rocky coastlines"],
+    "answer": "Arid deserts and loose topsoil"
+  },
+  {
+    "question": "Deposition occurs when an erosional agent:",
+    "choices": ["Increases its velocity", "Loses energy and slows down", "Changes its chemical state", "Freezes solid"],
+    "answer": "Loses energy and slows down"
+  },
+  {
+    "question": "A delta forms when:",
+    "choices": ["A river erodes a canyon", "A river enters a standing body of water and deposits its sediment", "Wind blows sand into a dune", "A glacier melts at its base"],
+    "answer": "A river enters a standing body of water and deposits its sediment"
+  },
+  {
+    "question": "Glaciers move massive amounts of rock and deposit unsorted sediment called:",
+    "choices": ["Loess", "Alluvium", "Till", "Silt"],
+    "answer": "Till"
+  },
+  {
+    "question": "The overarching term for the downslope movement of rock, regolith, and soil under the direct influence of gravity is:",
+    "choices": ["Weathering", "Mass wasting", "Fluvial transport", "Aeolian erosion"],
+    "answer": "Mass wasting"
+  },
+  {
+    "question": "Which trigger often initiates mass wasting events?",
+    "choices": ["Heavy rainfall saturating the soil", "A decrease in slope angle", "Extensive planting of vegetation", "Freezing temperatures"],
+    "answer": "Heavy rainfall saturating the soil"
+  },
+  {
+    "question": "The extremely slow, imperceptible downslope movement of soil and regolith is called:",
+    "choices": ["Rockfall", "Mudflow", "Slump", "Creep"],
+    "answer": "Creep"
+  },
+  {
+    "question": "A rapid mass wasting event where a mixture of rock, soil, and water rushes down a channel is a:",
+    "choices": ["Creep", "Debris flow/Mudflow", "Rock avalanche", "Solifluction"],
+    "answer": "Debris flow/Mudflow"
+  },
+  {
+    "question": "A rockfall is characterized by:",
+    "choices": ["Soil slowly shifting over decades", "Blocks of bedrock breaking loose and falling freely through the air", "A cohesive block of earth sliding along a curved surface", "Water completely turning soil into a liquid"],
+    "answer": "Blocks of bedrock breaking loose and falling freely through the air"
+  },
+  {
+    "question": "A primary source of Earth's internal heat is:",
+    "choices": ["Solar radiation penetrating the crust", "The decay of radioactive isotopes", "Friction from ocean currents", "Atmospheric pressure"],
+    "answer": "The decay of radioactive isotopes"
+  },
+  {
+    "question": "Primordial heat refers to:",
+    "choices": ["Heat generated by modern volcanic eruptions", "Heat retained from the violent collisions during Earth's formation", "Heat from the sun trapping greenhouse gases", "Heat from continental drift"],
+    "answer": "Heat retained from the violent collisions during Earth's formation"
+  },
+  {
+    "question": "The process where denser materials sank to the core and lighter materials floated to the crust during Earth's formation generated heat. This is called:",
+    "choices": ["Radioactive decay", "Frictional heating", "Gravitational differentiation", "Solar heating"],
+    "answer": "Gravitational differentiation"
+  },
+  {
+    "question": "Heat is transferred from the Earth's core to the mantle primarily through:",
+    "choices": ["Radiation", "Conduction", "Convection", "Subduction"],
+    "answer": "Conduction"
+  },
+  {
+    "question": "The geothermal gradient describes:",
+    "choices": ["The decrease in temperature with altitude", "The increase in temperature with depth inside the Earth", "The difference in temperature between the equator and poles", "The cooling of lava on the surface"],
+    "answer": "The increase in temperature with depth inside the Earth"
+  },
+  {
+    "question": "Magma is generated in the Earth's interior primarily by:",
+    "choices": ["The complete melting of the outer core", "Partial melting of mantle and crustal rocks", "Water freezing underground", "Meteors striking the crust"],
+    "answer": "Partial melting of mantle and crustal rocks"
+  },
+  {
+    "question": "Decompression melting occurs when:",
+    "choices": ["Pressure increases significantly", "Hot mantle rock rises to shallower depths where pressure is lower", "Water is added to rock", "Rocks are buried deeper"],
+    "answer": "Hot mantle rock rises to shallower depths where pressure is lower"
+  },
+  {
+    "question": "How does the addition of water (volatiles) affect the melting point of mantle rocks?",
+    "choices": ["It raises the melting point", "It has no effect", "It lowers the melting point", "It causes the rock to freeze"],
+    "answer": "It lowers the melting point"
+  },
+  {
+    "question": "Flux melting is most commonly associated with which tectonic environment?",
+    "choices": ["Mid-ocean ridges", "Hotspots", "Subduction zones", "Transform faults"],
+    "answer": "Subduction zones"
+  },
+  {
+    "question": "Heat transfer melting happens when:",
+    "choices": ["Rising magma brings heat that melts surrounding crustal rocks", "Friction between plates generates massive heat", "Radioactive elements decay rapidly in one spot", "Sunlight heats the surface"],
+    "answer": "Rising magma brings heat that melts surrounding crustal rocks"
+  },
+  {
+    "question": "Because magma is less dense than the surrounding solid rock, it tends to:",
+    "choices": ["Sink toward the core", "Move upward toward the surface", "Remain stationary indefinitely", "Crystallize instantly"],
+    "answer": "Move upward toward the surface"
+  },
+  {
+    "question": "Magma that cools and solidifies deep underground forms:",
+    "choices": ["Extrusive igneous rocks", "Volcanic ash", "Plutonic (intrusive) igneous rocks", "Lava flows"],
+    "answer": "Plutonic (intrusive) igneous rocks"
+  },
+  {
+    "question": "As magma cools, minerals crystallize in a specific order based on their melting points. This process is described by:",
+    "choices": ["Mohs scale", "Bowen's reaction series", "The rock cycle", "Continental drift"],
+    "answer": "Bowen's reaction series"
+  },
+  {
+    "question": "When magma reaches the Earth's surface, it is called:",
+    "choices": ["Pyroclastic material", "Ash", "Lava", "Pumice"],
+    "answer": "Lava"
+  },
+  {
+    "question": "Magma assimilation occurs when:",
+    "choices": ["Two magma chambers mix", "Magma melts and incorporates the surrounding host rock", "Magma cools instantly into glass", "Gases escape from the magma"],
+    "answer": "Magma melts and incorporates the surrounding host rock"
+  },
+  {
+    "question": "The process of metamorphism occurs in the:",
+    "choices": ["Liquid state", "Solid state", "Gaseous state", "Plasma state"],
+    "answer": "Solid state"
+  },
+  {
+    "question": "Regional metamorphism is primarily associated with:",
+    "choices": ["Magma intruding into cold rock", "Meteorite impacts", "Large-scale mountain building and high differential pressure", "Geothermal hot springs"],
+    "answer": "Large-scale mountain building and high differential pressure"
+  },
+  {
+    "question": "The alignment of platy minerals perpendicular to the direction of stress creates a banded texture called:",
+    "choices": ["Porphyritic", "Foliation", "Cleavage", "Clastic"],
+    "answer": "Foliation"
+  },
+  {
+    "question": "Contact metamorphism is driven primarily by:",
+    "choices": ["High directed pressure", "Heat from a nearby magma intrusion", "Deep burial over millions of years", "Fault zone friction"],
+    "answer": "Heat from a nearby magma intrusion"
+  },
+  {
+    "question": "Which of the following is an unfoliated metamorphic rock that forms from limestone?",
+    "choices": ["Slate", "Schist", "Gneiss", "Marble"],
+    "answer": "Marble"
+  },
+  {
+    "question": "Tensional stress causes rocks to:",
+    "choices": ["Be squeezed together", "Slide past one another", "Be pulled apart and lengthen", "Fold into anticlines"],
+    "answer": "Be pulled apart and lengthen"
+  },
+  {
+    "question": "Compressional stress is most likely to produce:",
+    "choices": ["Normal faults", "Folding and reverse faults", "Strike-slip faults", "Rift valleys"],
+    "answer": "Folding and reverse faults"
+  },
+  {
+    "question": "Shear stress occurs when forces:",
+    "choices": ["Pull rocks in opposite directions", "Push rocks toward each other", "Cause rock masses to slide horizontally past one another", "Cause magma to rise"],
+    "answer": "Cause rock masses to slide horizontally past one another"
+  },
+  {
+    "question": "If a rock deforms by bending and returning to its original shape when stress is removed, it exhibits:",
+    "choices": ["Brittle deformation", "Plastic deformation", "Elastic deformation", "Ductile deformation"],
+    "answer": "Elastic deformation"
+  },
+  {
+    "question": "Rocks near the surface are cold and tend to fracture when stressed, which is known as:",
+    "choices": ["Ductile deformation", "Brittle deformation", "Elastic strain", "Flowing"],
+    "answer": "Brittle deformation"
+  },
+  {
+    "question": "The outermost, thinnest layer of the Earth is the:",
+    "choices": ["Mantle", "Crust", "Outer Core", "Inner Core"],
+    "answer": "Crust"
+  },
+  {
+    "question": "The thickest layer of the Earth, located between the crust and the core, is the:",
+    "choices": ["Lithosphere", "Mantle", "Outer Core", "Asthenosphere"],
+    "answer": "Mantle"
+  },
+  {
+    "question": "The Earth's core is divided into two parts. The outer core is:",
+    "choices": ["Solid", "Liquid", "Gaseous", "Plasma"],
+    "answer": "Liquid"
+  },
+  {
+    "question": "The rigid outer layer of the Earth that includes the crust and uppermost mantle is the:",
+    "choices": ["Asthenosphere", "Mesosphere", "Lithosphere", "Hydrosphere"],
+    "answer": "Lithosphere"
+  },
+  {
+    "question": "The plastic, flowing layer of the mantle directly beneath the lithosphere is the:",
+    "choices": ["Asthenosphere", "Outer core", "Crust", "Inner core"],
+    "answer": "Asthenosphere"
+  },
+  {
+    "question": "How does continental crust differ from oceanic crust?",
+    "choices": ["It is thinner and denser", "It is thicker and less dense", "It is purely basaltic", "It is located beneath the mantle"],
+    "answer": "It is thicker and less dense"
+  },
+  {
+    "question": "The primary compositional difference between the crust and the mantle is that the mantle is richer in:",
+    "choices": ["Silica and oxygen", "Iron and magnesium", "Nickel and iron", "Water and carbon"],
+    "answer": "Iron and magnesium"
+  },
+  {
+    "question": "What distinguishes the inner core from the outer core?",
+    "choices": ["The inner core is liquid, outer is solid", "The inner core is solid iron-nickel, outer is liquid", "The inner core is made of silicate rocks", "The inner core is cooler"],
+    "answer": "The inner core is solid iron-nickel, outer is liquid"
+  },
+  {
+    "question": "The boundary between the crust and the mantle is known as the:",
+    "choices": ["Gutenberg discontinuity", "Lehmann discontinuity", "Moho (Mohorovičić discontinuity)", "Subduction zone"],
+    "answer": "Moho (Mohorovičić discontinuity)"
+  },
+  {
+    "question": "Why is the asthenosphere capable of flowing, unlike the lower mantle (mesosphere)?",
+    "choices": ["It is completely molten", "It is closer to the core", "It is near its melting point and behaves plastically", "It contains a lot of water"],
+    "answer": "It is near its melting point and behaves plastically"
+  },
+  {
+    "question": "Who first proposed the comprehensive Continental Drift Theory in 1912?",
+    "choices": ["Harry Hess", "Alfred Wegener", "Arthur Holmes", "J. Tuzo Wilson"],
+    "answer": "Alfred Wegener"
+  },
+  {
+    "question": "According to the theory, all continents were once joined in a single supercontinent called:",
+    "choices": ["Laurasia", "Gondwana", "Pangaea", "Panthalassa"],
+    "answer": "Pangaea"
+  },
+  {
+    "question": "Pangaea is estimated to have begun breaking apart approximately:",
+    "choices": ["10,000 years ago", "200 million years ago", "2 billion years ago", "4.6 billion years ago"],
+    "answer": "200 million years ago"
+  },
+  {
+    "question": "Continental drift suggested that continents moved by:",
+    "choices": ["Plowing through the ocean floor", "Riding on conveyer belts of magma", "Being pushed by wind", "Floating on the atmosphere"],
+    "answer": "Plowing through the ocean floor"
+  },
+  {
+    "question": "The main reason Wegener's theory was initially rejected by the scientific community was because:",
+    "choices": ["He had no evidence", "He couldn't provide a plausible mechanism for how the continents moved", "Pangaea never existed", "The oceans were too deep"],
+    "answer": "He couldn't provide a plausible mechanism for how the continents moved"
+  },
+  {
+    "question": "Which of the following is geometric evidence for continental drift?",
+    "choices": ["The distribution of earthquakes", "The jigsaw-puzzle fit of the coastlines of South America and Africa", "The age of seafloor rocks", "Magnetic reversals"],
+    "answer": "The jigsaw-puzzle fit of the coastlines of South America and Africa"
+  },
+  {
+    "question": "The presence of identical fossil plant species, like Glossopteris, on widely separated continents suggests:",
+    "choices": ["Seeds blew across oceans", "The continents were once connected", "Convergent evolution", "Early humans transported them"],
+    "answer": "The continents were once connected"
+  },
+  {
+    "question": "Glacial striations found in tropical regions like India and Africa indicate that:",
+    "choices": ["The equator was once freezing", "Glaciers formed at the equator", "These landmasses were once located near the South Pole", "Glaciers flowed from the ocean to land"],
+    "answer": "These landmasses were once located near the South Pole"
+  },
+  {
+    "question": "Corresponding rock sequences and mountain ranges (like the Appalachians) that end at the coastline of one continent and seemingly continue on another provide evidence of:",
+    "choices": ["Seafloor spreading", "Matching geologic features", "Paleomagnetism", "Subduction"],
+    "answer": "Matching geologic features"
+  },
+  {
+    "question": "Mesosaurus fossils were found in both South America and Africa. Mesosaurus was a:",
+    "choices": ["Deep sea fish", "Bird", "Coastal freshwater reptile", "Land mammal"],
+    "answer": "Coastal freshwater reptile"
+  },
+  {
+    "question": "Seafloor spreading occurs at:",
+    "choices": ["Deep ocean trenches", "Transform faults", "Mid-ocean ridges", "Continental margins"],
+    "answer": "Mid-ocean ridges"
+  },
+  {
+    "question": "As new oceanic crust is formed at mid-ocean ridges, the older crust is:",
+    "choices": ["Pushed outward away from the ridge", "Pulled back into the mantle at the ridge", "Destroyed by magma", "Piled up into mountains at the ridge"],
+    "answer": "Pushed outward away from the ridge"
+  },
+  {
+    "question": "The process of seafloor spreading is driven primarily by:",
+    "choices": ["Gravity pulling continents apart", "Mantle convection currents", "The rotation of the Earth", "Tidal forces"],
+    "answer": "Mantle convection currents"
+  },
+  {
+    "question": "Which observation proves that the seafloor is spreading?",
+    "choices": ["The seafloor is completely flat", "Rocks near the ridge are younger than rocks farther away", "Rocks near the ridge are older than rocks farther away", "The oceans are shrinking"],
+    "answer": "Rocks near the ridge are younger than rocks farther away"
+  },
+  {
+    "question": "The magnetic stripes parallel to mid-ocean ridges are caused by:",
+    "choices": ["Iron ships sinking", "Earth's magnetic field periodically reversing as new magma solidifies", "Submarine cables", "Ocean currents"],
+    "answer": "Earth's magnetic field periodically reversing as new magma solidifies"
+  },
+  {
+    "question": "The gently sloping submerged extension of the continent is the:",
+    "choices": ["Continental slope", "Abyssal plain", "Continental shelf", "Ocean trench"],
+    "answer": "Continental shelf"
+  },
+  {
+    "question": "The deepest parts of the ocean basins are the:",
+    "choices": ["Mid-ocean ridges", "Continental rises", "Deep ocean trenches", "Seamounts"],
+    "answer": "Deep ocean trenches"
+  },
+  {
+    "question": "Flat, incredibly level areas of the deep ocean floor are called:",
+    "choices": ["Continental shelves", "Abyssal plains", "Guyots", "Atolls"],
+    "answer": "Abyssal plains"
+  },
+  {
+    "question": "The Wilson Cycle describes the:",
+    "choices": ["Water cycle over the ocean", "Opening and closing of ocean basins over geologic time", "Life cycle of a volcano", "Circulation of ocean currents"],
+    "answer": "Opening and closing of ocean basins over geologic time"
+  },
+  {
+    "question": "An embryonic ocean basin begins to form during the stage of:",
+    "choices": ["Continental rifting", "Subduction", "Continental collision", "Island arc formation"],
+    "answer": "Continental rifting"
+  },
+  {
+    "question": "The Himalayan mountain range was formed by:",
+    "choices": ["Divergence of plates", "Continental-continental plate collision", "Oceanic-continental subduction", "Transform faulting"],
+    "answer": "Continental-continental plate collision"
+  },
+  {
+    "question": "Rift valleys, like the East African Rift, are formed at which type of plate boundary?",
+    "choices": ["Convergent", "Divergent", "Transform", "Strike-slip"],
+    "answer": "Divergent"
+  },
+  {
+    "question": "Deep ocean trenches and volcanic island arcs are characteristic of:",
+    "choices": ["Continental-continental convergence", "Divergent boundaries", "Oceanic-oceanic convergence", "Transform boundaries"],
+    "answer": "Oceanic-oceanic convergence"
+  },
+  {
+    "question": "The San Andreas Fault is an example of a:",
+    "choices": ["Normal fault at a divergent boundary", "Reverse fault at a convergent boundary", "Transform fault where plates slide past each other", "Thrust fault"],
+    "answer": "Transform fault where plates slide past each other"
+  },
+  {
+    "question": "When an oceanic plate converges with a continental plate, the oceanic plate subducts because:",
+    "choices": ["It is thicker", "It is moving faster", "It is denser", "It is lighter"],
+    "answer": "It is denser"
+  },
+  {
+    "question": "Stratification is most commonly associated with which rock type?",
+    "choices": ["Igneous", "Sedimentary", "Metamorphic", "Plutonic"],
+    "answer": "Sedimentary"
+  },
+  {
+    "question": "Layers of sedimentary rocks are called:",
+    "choices": ["Foliations", "Strata or beds", "Cleavage planes", "Intrusions"],
+    "answer": "Strata or beds"
+  },
+  {
+    "question": "The Principle of Original Horizontality states that:",
+    "choices": ["Older rocks are on the bottom", "Sediments are initially deposited in flat, horizontal layers", "Faults are younger than the rocks they cut", "Fossils succeed one another in a definite order"],
+    "answer": "Sediments are initially deposited in flat, horizontal layers"
+  },
+  {
+    "question": "Stratified rocks form when sediments are deposited by water, wind, or ice and then undergo:",
+    "choices": ["Melting", "Lithification (compaction and cementation)", "Subduction", "Metamorphism"],
+    "answer": "Lithification (compaction and cementation)"
+  },
+  {
+    "question": "A change in the type of sediment deposited over time results in:",
+    "choices": ["The destruction of beds", "Distinct layers with different characteristics", "Magma intruding", "A uniform, single rock mass"],
+    "answer": "Distinct layers with different characteristics"
+  },
+  {
+    "question": "Determining the age of a rock layer in relation to the layers above or below it is called:",
+    "choices": ["Absolute dating", "Radiometric dating", "Relative dating", "Carbon dating"],
+    "answer": "Relative dating"
+  },
+  {
+    "question": "The Law of Superposition states that in an undisturbed sequence of sedimentary rocks:",
+    "choices": ["The oldest layer is at the bottom", "The youngest layer is at the bottom", "All layers are the same age", "Faults are older than the layers"],
+    "answer": "The oldest layer is at the bottom"
+  },
+  {
+    "question": "Absolute dating methods primarily rely on:",
+    "choices": ["The sequence of strata", "Index fossils", "The radioactive decay of isotopes", "The color of the rock"],
+    "answer": "The radioactive decay of isotopes"
+  },
+  {
+    "question": "The Principle of Cross-Cutting Relationships states that a geologic feature that cuts through another is:",
+    "choices": ["Older than the feature it cuts", "Younger than the feature it cuts", "The same age", "Igneous only"],
+    "answer": "Younger than the feature it cuts"
+  },
+  {
+    "question": "Which method would a geologist use to determine the numerical age in years of a volcanic ash layer?",
+    "choices": ["Superposition", "Isotopic/Radiometric dating", "Principle of Inclusions", "Fossil correlation"],
+    "answer": "Isotopic/Radiometric dating"
+  },
+  {
+    "question": "The geologic time scale was primarily constructed initially using:",
+    "choices": ["Radiometric dating", "Relative dating and fossil correlation", "Satellite imagery", "Carbon-14 dating"],
+    "answer": "Relative dating and fossil correlation"
+  },
+  {
+    "question": "Absolute dating contributed to the geologic time scale by:",
+    "choices": ["Identifying the order of eras", "Assigning actual age estimates in years to the boundaries established by relative dating", "Proving superposition", "Classifying fossils"],
+    "answer": "Assigning actual age estimates in years to the boundaries established by relative dating"
+  },
+  {
+    "question": "Major boundaries on the geologic time scale, such as the division between the Mesozoic and Cenozoic eras, were established based on:",
+    "choices": ["Uniform sediment deposition", "Major mass extinction events and abrupt changes in the fossil record", "A set interval of 100 million years", "Changes in the Earth's orbit"],
+    "answer": "Major mass extinction events and abrupt changes in the fossil record"
+  },
+  {
+    "question": "A gap in the rock record caused by erosion or non-deposition is called an:",
+    "choices": ["Unconformity", "Intrusion", "Index fossil", "Inclusion"],
+    "answer": "Unconformity"
+  },
+  {
+    "question": "Why is it difficult to radiometrically date most sedimentary rocks directly?",
+    "choices": ["They don't contain any isotopes", "The minerals within them were formed much earlier than the rock itself", "They are too young", "They melt easily"],
+    "answer": "The minerals within them were formed much earlier than the rock itself"
+  },
+  {
+    "question": "What makes a fossil a good index fossil?",
+    "choices": ["It was rare and lived in a small area", "It lived for a very long geologic time", "It was widespread geographically and existed for a short geologic time", "It has no hard parts"],
+    "answer": "It was widespread geographically and existed for a short geologic time"
+  },
+  {
+    "question": "Index fossils are crucial for:",
+    "choices": ["Determining the exact temperature of ancient climates", "Correlating rock layers across large geographic distances", "Radiometric dating", "Finding oil"],
+    "answer": "Correlating rock layers across large geographic distances"
+  },
+  {
+    "question": "If two rock layers in different continents contain the same index fossil, geologists can conclude that:",
+    "choices": ["The continents were never connected", "The rocks were deposited during the same time period", "The rocks are identical in mineral composition", "The rocks are igneous"],
+    "answer": "The rocks were deposited during the same time period"
+  },
+  {
+    "question": "Trilobites are excellent index fossils for which era?",
+    "choices": ["Precambrian", "Paleozoic", "Mesozoic", "Cenozoic"],
+    "answer": "Paleozoic"
+  },
+  {
+    "question": "Ammonites are often used as index fossils to identify rocks from the:",
+    "choices": ["Precambrian", "Mesozoic Era", "Cenozoic Era", "Proterozoic Eon"],
+    "answer": "Mesozoic Era"
+  },
+  {
+    "question": "The longest block of time in Earth's history, representing nearly 90% of it, is the:",
+    "choices": ["Mesozoic Era", "Paleozoic Era", "Precambrian", "Cenozoic Era"],
+    "answer": "Precambrian"
+  },
+  {
+    "question": "The Mesozoic Era is often referred to as the:",
+    "choices": ["Age of Mammals", "Age of Reptiles (Dinosaurs)", "Age of Amphibians", "Age of Fishes"],
+    "answer": "Age of Reptiles (Dinosaurs)"
+  },
+  {
+    "question": "Humans evolved during which geologic era?",
+    "choices": ["Paleozoic", "Mesozoic", "Cenozoic", "Precambrian"],
+    "answer": "Cenozoic"
+  },
+  {
+    "question": "The rapid diversification of life forms, particularly those with hard parts, occurred at the beginning of the Paleozoic Era in an event known as the:",
+    "choices": ["Permian Extinction", "Cambrian Explosion", "K-T Boundary", "Great Oxygenation Event"],
+    "answer": "Cambrian Explosion"
+  },
+  {
+    "question": "The largest mass extinction in Earth's history, wiping out roughly 96% of marine species, occurred at the end of the:",
+    "choices": ["Ordovician", "Permian", "Cretaceous", "Quaternary"],
+    "answer": "Permian"
+  }
+]

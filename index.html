@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Earth Science Review for NAT</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ══════════════════════════════════════
+       BACKGROUND LAYERS
+  ══════════════════════════════════════ -->
+  <div class="bg-base"></div>
+  <div class="bg-orb bg-orb-1"></div>
+  <div class="bg-orb bg-orb-2"></div>
+  <div class="bg-orb bg-orb-3"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-diag"></div>
+  <div class="particles"></div>
+  <div class="bg-vignette" id="bg-vignette"></div>
+
+  <!-- Flash transition overlay -->
+  <div id="flash-overlay"></div>
+
+  <!-- ══════════════════════════════════════
+       INTRO SCREEN
+  ══════════════════════════════════════ -->
+  <div id="intro-screen">
+    <!-- Orbiting rune container -->
+    <div class="intro-rune-wrap" style="position:absolute;inset:0;pointer-events:none;display:flex;align-items:center;justify-content:center;">
+    </div>
+
+    <div class="intro-gem-wrap">
+      <div class="intro-gem"></div>
+      <div class="intro-gem-ring r1"></div>
+      <div class="intro-gem-ring r2"></div>
+      <div class="intro-gem-ring r3"></div>
+    </div>
+
+    <div class="intro-logo">✦ &nbsp;EARTH SCIENCE REVIEW for NAT&nbsp; ✦</div>
+    <div class="intro-divider"></div>
+    <div class="intro-sub">Sir Ed :D</div>
+
+    <button class="genshin-btn btn-primary visible intro-btn" id="btn-intro-start">
+      ⟐ &nbsp;Begin Quiz
+    </button>
+  </div>
+
+  <!-- ══════════════════════════════════════
+       TOP TIMER STRIP
+  ══════════════════════════════════════ -->
+  <div id="timer-bar-wrap">
+    <div id="timer-bar"></div>
+  </div>
+
+  <!-- ══════════════════════════════════════
+       MAIN APP
+  ══════════════════════════════════════ -->
+  <div id="app">
+
+    <!-- ── HEADER ─────────────────────────── -->
+    <header id="header">
+      <div class="header-left">
+        <div class="header-title">
+          <div class="title-gem"></div>
+          EARTH SCIENCE REVIEW for NAT
+        </div>
+        <div class="header-subtitle">LPU-C International School</div>
+      </div>
+
+      <div class="header-stars">
+        <span class="hdr-star">★</span>
+        <span class="hdr-star">★</span>
+        <span class="hdr-star">★</span>
+        <span class="hdr-star">★</span>
+        <span class="hdr-star">★</span>
+      </div>
+
+      <div class="header-right">
+        <div id="question-counter">Question <span>—</span></div>
+        <div class="element-badge">
+          <div class="element-icon">✦</div>
+          <span style="font-size:9px;letter-spacing:0.12em;color:var(--gold)">QUIZ MODE</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── LEFT PANEL — Question ──────────── -->
+    <div id="left-panel">
+
+      <div id="question-card">
+        <!-- Animated scan shimmer -->
+        <div class="scan-line"></div>
+
+        <!-- Corner brackets -->
+        <div class="corner-tl"></div>
+        <div class="corner-br"></div>
+
+        <div class="q-label">Question</div>
+
+        <div id="question-text">
+          Press Begin to start your journey.
+        </div>
+
+        <div class="ornament">⬧</div>
+
+        <!-- Timer row -->
+        <div id="timer-display">
+          <span class="timer-label">Time</span>
+          <div id="timer-number">10</div>
+          <div id="timer-progress">
+            <div id="timer-fill"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Lore flavour -->
+      <div id="lore-box">
+        ✦ &nbsp;"To know Teyvat is to understand the very nature of the elements
+        and the stories woven by the Archons across the Seven Nations."
+      </div>
+
+    </div><!-- /left-panel -->
+
+    <!-- ── RIGHT PANEL — Choices ─────────── -->
+    <div id="right-panel">
+
+      <div class="panel-header">
+        <span class="panel-header-text">Select Your Answer</span>
+        <div class="panel-header-line"></div>
+        <span style="color:var(--gold);font-size:12px;">⬧</span>
+      </div>
+
+      <div id="choices-grid">
+        <!-- Built by JS -->
+      </div>
+
+    </div><!-- /right-panel -->
+
+    <!-- ── ACTION BAR ─────────────────────── -->
+    <div id="action-bar">
+      <!-- Start Timer — shown at start of each question -->
+      <button class="genshin-btn btn-primary" id="btn-start-timer">
+        ▶ &nbsp;Start Timer
+      </button>
+
+      <!-- Show Answer — shown after Time's Up -->
+      <button class="genshin-btn btn-secondary" id="btn-show-answer">
+        ⊡ &nbsp;Show Answer
+      </button>
+
+      <!-- Next — shown after answer is revealed -->
+      <button class="genshin-btn btn-primary" id="btn-next">
+        Next &nbsp;›
+      </button>
+    </div>
+
+  </div><!-- /app -->
+
+  <!-- ══════════════════════════════════════
+       TIME'S UP OVERLAY
+  ══════════════════════════════════════ -->
+  <div id="timesup-overlay">
+    <div class="timesup-bg"></div>
+
+    <!-- Ripple rings -->
+    <div class="timesup-ring"></div>
+    <div class="timesup-ring"></div>
+    <div class="timesup-ring"></div>
+
+    <div class="timesup-box">
+      <div class="timesup-icon">⌛</div>
+      <div class="timesup-text">TIME'S UP</div>
+      <div class="timesup-deco"></div>
+      <div class="timesup-sub">Answer will be revealed shortly…</div>
+      <div class="timesup-bar-wrap">
+        <div id="timesup-countdown-bar"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════
+       QUIZ COMPLETE SCREEN
+  ══════════════════════════════════════ -->
+  <div id="complete-screen">
+    <div class="complete-box">
+      <div class="complete-title">✦ &nbsp;Quest Complete&nbsp; ✦</div>
+      <div class="complete-divider"></div>
+      <div class="complete-label">You have traversed all questions of Teyvat</div>
+      <div class="complete-stars" id="complete-stars">
+        <span class="complete-star">★</span>
+        <span class="complete-star">★</span>
+        <span class="complete-star">★</span>
+      </div>
+      <div class="complete-divider"></div>
+      <button class="genshin-btn btn-primary visible" id="btn-restart" style="margin-top:14px;justify-content:center;">
+        ↺ &nbsp;Restart Quiz
+      </button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
