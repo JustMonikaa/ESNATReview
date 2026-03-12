@@ -481,6 +481,16 @@ dom.btnIntroStart.addEventListener('click', () => {
   }, 700);
 });
 
+$('btn-skip-60').addEventListener('click', () => {
+  dom.introScreen.classList.add('fade-out');
+  setTimeout(() => {
+    dom.introScreen.style.display = 'none';
+    state.currentIndex = 59; // 0-based, so index 59 = Question 60
+    triggerFlash();
+    setTimeout(() => renderQuestion(state.currentIndex), 120);
+  }, 700);
+});
+
 /* ═══════════════════════════════════════════════════════════
    PARTICLES BACKGROUND
 ═══════════════════════════════════════════════════════════ */
